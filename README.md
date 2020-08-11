@@ -37,20 +37,6 @@ Esta é a Primeira versão -- V.1 -- da Aplicação Proffys que pode ser executa
 
 ---
 
-## 🖥 Preview 
-- Desktop
-<p align="center">
-  <img src="/screenshots/Desktop.png">
-</p>
-<br>
-
-- Mobile
-<p align="center">
-    <img src="/screenshots/Mobile.png">
-</p>
-
----
-
 ## 📖 Sobre o Projeto
 
 A proposta do projeto é uma aplicação que possa ligar quem deseja aprender, com quer ensinar. É possível encontrar alunos para o que você leciona, ou encontrar o professor para aquela matéria que você sempre quis aprender mais!
@@ -133,6 +119,20 @@ npm run dev
 ```
 
 Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
+
+---
+
+## 🖥 Preview 
+- Desktop
+<p align="center">
+  <img src="/screenshots/Desktop.png">
+</p>
+<br>
+
+- Mobile
+<p align="center">
+    <img src="/screenshots/Mobile.png">
+</p>
 
 ---
 
